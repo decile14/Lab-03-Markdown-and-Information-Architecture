@@ -1,7 +1,7 @@
 # Dominique Dorvil
 # Writing Styles
 
-The topic is on types of writing or the *styles * of writing. Poetry, song-writing, and fictional writing are all different ways that people can express themselves through writing. 
+The topic is on types of writing or the styles of writing. Poetry, song-writing, and fictional writing are all different ways that people can express themselves through writing. 
 
 ## Ontology
 - Writing has different styles;
@@ -83,7 +83,7 @@ Poetry (the term derives from a variant of the Greek term, poiesis, "making") is
 	So long lives this, and this gives life to thee.*
 	
 
-3.“If You Forget Me” by Pablo Neruda
+3. “If You Forget Me” by Pablo Neruda
 	*I want you to know
 	one thing.
 	You know how this is:
@@ -169,7 +169,7 @@ Fiction writing is the composition of non-factual prose texts. Fictional writing
 
 A songwriter is a professional that writes lyrics and composes musical compositions for songs. A songwriter can also be called a composer, although the latter term tends to be used mainly for individuals from the classical music genre and film scoring, but is also associated writing and composing the original musical composition or musical bed. A songwriter that writes the lyrics/words are referred to as lyricist. The pressure from the music industry to produce popular hits means that songwriting is often an activity for which the tasks are distributed between a number of people. For example, a songwriter who excels at writing lyrics might be paired with a songwriter with the task of creating original melodies. Pop songs may be written by group members from the band or by staff writers – songwriters directly employed by music publishers. Some songwriters serve as their own music publishers, while others have outside publishers. Stephen Collins Foster (July 4, 1826 – January 13, 1864), known as "the father of American music", was an American songwriter known primarily for his parlor and minstrel music. He wrote more than 200 songs.
 
-## Famous Authors
+## Famous Song-Writers
 
 1. Ray Charles
 	Ray Charles Robinson (September 23, 1930 – June 10, 2004), professionally known as simply Ray Charles, was an American singer, songwriter, musician, and composer. Among friends and fellow musicians he preferred being called "Brother Ray". He was often referred to as "The Genius". Charles started losing his vision at the age of 5, and by 7 he was blind. While he was with ABC, Charles became one of the first black musicians to be granted artistic control by a mainstream record company. Charles placed multiple singles and albums in the Top 10 of the Top 40 on various Billboard charts: 44 on the US R&B singles charts, 11 on the Hot 100 singles charts, 2 on the US Country singles charts, 8 on the Billboard 200 album charts, and one on the US Country Album charts. He pioneered the soul music genre during the 1950s by combining blues, rhythm and blues, and gospel styles into the music he recorded for Atlantic. He contributed to the integration of country music, rhythm and blues, and pop music during the 1960s with his crossover success on ABC Records, notably with his two Modern Sounds albums
@@ -191,6 +191,6 @@ A songwriter is a professional that writes lyrics and composes musical compositi
 3. *Havana* by Camila Cabello
 	"Havana" is a song recorded by Cuban-American singer Camila Cabello featuring guest vocals from American rapper Young Thug. It was released on August 3, 2017, along with "OMG", from her solo debut album Camila (2018). In August 2017, Cabello confirmed the song as the album's second single. It was serviced to radio on September 8, 2017. Due to its rising success, "Havana" later became the official lead single of Camila, replacing "Crying in the Club". In November 2017, a remix version of the song with Puerto Rican rapper Daddy Yankee was uploaded to Cabello's YouTube page. The first verse of the remix is sung in Spanish while Daddy Yankee replaces Young Thug's verse.
 
-### End
+
 
 
